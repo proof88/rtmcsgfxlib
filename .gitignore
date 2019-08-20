@@ -64,3 +64,20 @@ __recovery/
 
 # Castalia statistics file (since XE7 Castalia is distributed with Delphi)
 *.stat
+tmcsgfxlib/gfxcore_src.rar
+tmcsgfxlib2/gfxcore2_src/occ/gfxcore_occ.dof
+tmcsgfxlib2/gfxcore2_src/occ/gfxcore_occ.dpr
+tmcsgfxlib2/gfxcore2_src/occ/gfxcore_occ.res
+tmcsgfxlib2/gfxcore2_src/verseny/EV5remodositva/cwnd.ddp
+tmcsgfxlib2/gfxcore2_src/verseny/EV5remodositva/cwnd.dfm
+tmcsgfxlib2/gfxcore2_src/verseny/EV5remodositva/cwnd.pas
+tmcsgfxlib2/gfxcore2_src/verseny/EV5remodositva/gfxcore_verseny1.dof
+tmcsgfxlib2/gfxcore2_src/verseny/EV5remodositva/gfxcore_verseny1.dpr
+tmcsgfxlib2/gfxcore2_src/verseny/EV5remodositva/gfxcore_verseny1.res
+tmcsgfxlib2/gfxcore2_src/verseny/EV5remodositva/u_loading.ddp
+tmcsgfxlib2/gfxcore2_src/verseny/EV5remodositva/u_loading.dfm
+tmcsgfxlib2/gfxcore2_src/verseny/EV5remodositva/u_loading.pas
+tmcsgfxlib2/gfxcore2_src/verseny/gfxcore_verseny1.dof
+tmcsgfxlib2/gfxcore2_src/verseny/gfxcore_verseny1.dpr
+tmcsgfxlib2/gfxcore2_src/verseny/gfxcore_verseny1.res
+xndgfxlib/core_src.rar
