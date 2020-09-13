@@ -17,7 +17,7 @@ ModuleType=SourceModule
 FormState=0
 FormOnTop=0
 
-[C:\Program Files (x86)\Borland\Delphi7\Projects\ProjectGroup1.bpg]
+[d:\__PR00F__\___developing___\projects\Delphi\_motorok\tmcsgfxlib2\gfxcore2_src\ProjectGroup1.bpg]
 FormState=0
 FormOnTop=0
 
@@ -30,14 +30,14 @@ MessageView=MessageView@EditWindow0
 Create=1
 Visible=1
 State=0
-Left=200
-Top=146
-Width=1302
-Height=682
+Left=135
+Top=145
+Width=1548
+Height=853
 MaxLeft=-1
 MaxTop=-1
-ClientWidth=1286
-ClientHeight=644
+ClientWidth=1532
+ClientHeight=815
 LeftPanelSize=293
 LeftPanelClients=CodeExplorer@EditWindow0
 LeftPanelData=000004000000000000000000000000000000000000000000000100000000000000000C000000436F64654578706C6F726572FFFFFFFF
@@ -48,9 +48,9 @@ BottomPanelData=0000040000000000000000000000000000000000000000000001000000000000
 
 [View0]
 Module=D:\__PR00F__\___developing___\projects\Delphi\_motorok\tmcsgfxlib2\gfxcore2_src\gfxcore.dpr
-CursorX=1
-CursorY=3129
-TopLine=3111
+CursorX=75
+CursorY=879
+TopLine=870
 LeftCol=1
 
 [Watches]
@@ -184,11 +184,11 @@ State=0
 Left=0
 Top=12
 Width=293
-Height=544
+Height=715
 MaxLeft=-1
 MaxTop=-1
 ClientWidth=293
-ClientHeight=544
+ClientHeight=715
 TBDockHeight=305
 LRDockWidth=293
 Dockable=1
@@ -199,11 +199,11 @@ Visible=1
 State=0
 Left=12
 Top=0
-Width=1274
+Width=1520
 Height=85
 MaxLeft=-1
 MaxTop=-1
-ClientWidth=1274
+ClientWidth=1520
 ClientHeight=85
 TBDockHeight=85
 LRDockWidth=443
